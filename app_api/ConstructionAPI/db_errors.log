@@ -1,0 +1,119 @@
+2014-09-22 01:09:10 :: sync_add_summary3:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-09-22 01:10:03 :: sync_add_summary3:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-09-22 01:10:46 :: sync_add_summary3:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-09-23 23:59:00 :: sync_add_summary3:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-09-23 23:59:08 :: sync_add_summary3:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-09-23 23:59:17 :: sync_add_summary3:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-09-24 00:00:15 :: sync_add_summary3:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-09-24 00:12:58 :: sync_add_summary3:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-09-24 00:13:29 :: sync_add_summary3:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-09-24 00:13:35 :: sync_add_summary3:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-09-24 00:13:54 :: sync_add_summary3:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-09-24 00:14:09 :: sync_add_summary3:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-11-03 02:10:05 :: sync_update_qty_estimate_report:prepare :: error = Unknown column 'EXReportNo' in 'field list'
+2014-11-03 02:10:05 :: sync_update_qty_estimate_report:prepare :: error = Unknown column 'EXReportNo' in 'field list'
+2014-11-03 02:10:05 :: sync_update_qty_estimate_report:prepare :: error = Unknown column 'EXReportNo' in 'field list'
+2014-11-06 12:23:39 :: syncPull :: error = Table 'privytex_construct.summarySheet' doesn't exist
+2014-11-06 12:24:28 :: syncPull :: error = Table 'privytex_construct.summarySheet' doesn't exist
+2014-11-06 12:25:15 :: syncPull :: error = Table 'privytex_construct.summarySheet' doesn't exist
+2014-11-06 12:30:54 :: syncPull :: error = Table 'privytex_construct.summarySheet' doesn't exist
+2014-11-06 12:31:05 :: syncPull :: error = Table 'privytex_construct.summarySheet' doesn't exist
+2014-11-06 12:31:36 :: syncPull :: error = Table 'privytex_construct.summarySheet' doesn't exist
+2014-11-06 12:32:29 :: syncPull :: error = Table 'privytex_construct.summarySheet' doesn't exist
+2014-11-06 12:43:33 :: syncPull :: error = Table 'privytex_construct.summarySheet' doesn't exist
+2014-11-06 13:22:00 :: syncPull :: error = Table 'privytex_construct.summarySheet' doesn't exist
+2014-11-06 14:08:15 :: syncPull :: error = Table 'privytex_construct.summarySheet' doesn't exist
+2014-11-06 15:09:32 :: syncPull :: error = Table 'privytex_construct.summarySheet' doesn't exist
+2014-11-06 15:09:43 :: syncPull :: error = Table 'privytex_construct.summarySheet' doesn't exist
+2014-11-06 15:11:27 :: syncPull :: error = Table 'privytex_construct.summarySheet' doesn't exist
+2014-11-06 15:11:41 :: syncPull :: error = Table 'privytex_construct.summarySheet' doesn't exist
+2014-11-06 15:13:33 :: syncPull :: error = Table 'privytex_construct.summarySheet' doesn't exist
+2014-11-06 23:02:53 :: syncPull :: error = Table 'privytex_construct.summarySheet' doesn't exist
+2014-11-06 23:16:56 :: syncPull :: error = Table 'privytex_construct.summarySheet' doesn't exist
+2014-11-11 01:12:44 :: sync_pushImage:file_error :: error = 3
+2014-11-12 00:29:39 :: syncPull :: error = Table 'privytex_construct.projects' doesn't exist
+2014-11-12 00:29:46 :: syncPull :: error = Table 'privytex_construct.projects' doesn't exist
+2014-11-12 00:30:06 :: syncPull :: error = Table 'privytex_construct.projects' doesn't exist
+2014-11-12 00:32:27 :: syncPull :: error = Table 'privytex_construct.projects' doesn't exist
+2014-11-12 00:44:04 :: sync_add_non_compliance_form:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-11-12 00:44:36 :: sync_add_non_compliance_form:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-11-12 00:44:43 :: sync_add_non_compliance_form:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-11-12 00:44:49 :: sync_add_non_compliance_form:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-11-12 00:44:58 :: sync_add_non_compliance_form:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-11-12 00:45:23 :: sync_add_non_compliance_form:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-11-12 00:45:32 :: sync_add_non_compliance_form:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-11-12 00:50:33 :: sync_add_non_compliance_form:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-11-12 00:50:37 :: sync_add_non_compliance_form:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-11-12 00:51:05 :: sync_add_non_compliance_form:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-11-12 00:52:53 :: sync_add_non_compliance_form:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-11-12 05:03:07 :: sync_add_expense_report:prepare :: error = Unknown column 'isAproved' in 'field list'
+2014-11-12 05:05:37 :: sync_add_daily_inspection_form:prepare :: error = Unknown column 'WDODepartmentOrCompany5' in 'field list'
+2014-11-12 05:07:44 :: sync_add_expense_report:prepare :: error = Unknown column 'isAproved' in 'field list'
+2014-11-12 15:07:45 :: sync_add_daily_inspection_form:prepare :: error = Unknown column 'WDODepartmentOrCompany5' in 'field list'
+2014-11-12 16:43:58 :: sync_add_daily_inspection_form:prepare :: error = Unknown column 'WDODepartmentOrCompany5' in 'field list'
+2014-11-12 16:44:00 :: sync_add_daily_inspection_form:prepare :: error = Unknown column 'WDODepartmentOrCompany5' in 'field list'
+2014-11-12 16:44:19 :: sync_add_daily_inspection_form:prepare :: error = Unknown column 'WDODepartmentOrCompany5' in 'field list'
+2014-11-13 07:03:48 :: sync_add_summary1:prepare :: error = Table 'privytex_construct.summarySheet1' doesn't exist
+2014-11-13 07:06:17 :: sync_add_summary1:prepare :: error = Table 'privytex_construct.summarySheet1' doesn't exist
+2014-11-13 08:35:44 :: sync_add_compliance_form:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-11-13 08:36:47 :: sync_add_compliance_form:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-11-13 08:38:06 :: sync_add_compliance_form:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-11-13 10:55:31 :: sync_remove_daily_inspection_items:prepare :: error = Unknown column 'dailyInspecNo' in 'where clause'
+2014-11-13 10:55:31 :: sync_daily_inspection_form:remove :: Failed to remove existing daily inspection items
+2014-11-13 10:55:35 :: sync_remove_daily_inspection_items:prepare :: error = Unknown column 'dailyInspecNo' in 'where clause'
+2014-11-13 10:55:35 :: sync_daily_inspection_form:remove :: Failed to remove existing daily inspection items
+2014-11-13 11:01:13 :: sync_remove_daily_inspection_items:prepare :: error = Unknown column 'dailyInspecNo' in 'where clause'
+2014-11-13 11:01:13 :: sync_daily_inspection_form:remove :: Failed to remove existing daily inspection items
+2014-11-13 11:24:34 :: sync_remove_daily_inspection_items:prepare :: error = Unknown column 'dailyInspecNo' in 'where clause'
+2014-11-13 11:24:34 :: sync_daily_inspection_form:remove :: Failed to remove existing daily inspection items
+2014-11-13 12:28:22 :: sync_add_compliance_form:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-11-13 12:28:29 :: sync_add_compliance_form:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-11-13 12:42:03 :: sync_add_expense_report:prepare :: error = Unknown column 'isAproved' in 'field list'
+2014-11-13 13:03:25 :: sync_remove_daily_inspection_items:prepare :: error = Unknown column 'dailyInspecNo' in 'where clause'
+2014-11-13 13:03:25 :: sync_daily_inspection_form:remove :: Failed to remove existing daily inspection items
+2014-11-13 13:29:05 :: sync_remove_daily_inspection_items:prepare :: error = Unknown column 'dailyInspecNo' in 'where clause'
+2014-11-13 13:29:05 :: sync_daily_inspection_form:remove :: Failed to remove existing daily inspection items
+2014-11-13 13:32:32 :: sync_remove_daily_inspection_items:prepare :: error = Unknown column 'dailyInspecNo' in 'where clause'
+2014-11-13 13:32:32 :: sync_daily_inspection_form:remove :: Failed to remove existing daily inspection items
+2014-11-13 13:32:40 :: sync_remove_daily_inspection_items:prepare :: error = Unknown column 'dailyInspecNo' in 'where clause'
+2014-11-13 13:32:40 :: sync_daily_inspection_form:remove :: Failed to remove existing daily inspection items
+2014-11-13 13:39:25 :: sync_add_expense_report:prepare :: error = Unknown column 'isAproved' in 'field list'
+2014-11-13 13:40:47 :: sync_add_qty_estimate_report:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-11-13 13:49:58 :: sync_update_qty_estimate_report:prepare :: error = Unknown column 'eXReportNo' in 'field list'
+2014-11-13 13:50:02 :: sync_update_qty_estimate_report:prepare :: error = Unknown column 'eXReportNo' in 'field list'
+2014-11-13 13:50:09 :: sync_update_qty_estimate_report:prepare :: error = Unknown column 'eXReportNo' in 'field list'
+2014-11-13 14:27:02 :: sync_remove_daily_inspection_items:prepare :: error = Unknown column 'dailyInspecNo' in 'where clause'
+2014-11-13 14:27:02 :: sync_daily_inspection_form:remove :: Failed to remove existing daily inspection items
+2014-11-14 00:46:11 :: sync_add_qty_estimate_report:execute :: error = Duplicate entry '' for key 'PRIMARY'
+2014-11-14 07:32:24 :: sync_add_summary1:prepare :: error = Table 'privytex_construct.summarySheet1' doesn't exist
+2014-11-14 07:34:49 :: sync_add_summary1:prepare :: error = Table 'privytex_construct.summarySheet1' doesn't exist
+2014-11-14 10:24:20 :: sync_remove_daily_inspection_items:prepare :: error = Unknown column 'dailyInspecNo' in 'where clause'
+2014-11-14 10:24:20 :: sync_daily_inspection_form:remove :: Failed to remove existing daily inspection items
+2014-11-14 10:27:43 :: sync_remove_daily_inspection_items:prepare :: error = Unknown column 'dailyInspecNo' in 'where clause'
+2014-11-14 10:27:43 :: sync_daily_inspection_form:remove :: Failed to remove existing daily inspection items
+2014-11-14 10:32:23 :: sync_remove_daily_inspection_items:prepare :: error = Unknown column 'dailyInspecNo' in 'where clause'
+2014-11-14 10:32:23 :: sync_daily_inspection_form:remove :: Failed to remove existing daily inspection items
+2014-11-14 10:39:51 :: sync_add_summary1:prepare :: error = Table 'privytex_construct.summarySheet1' doesn't exist
+2014-11-14 10:39:59 :: sync_add_summary1:prepare :: error = Table 'privytex_construct.summarySheet1' doesn't exist
+2014-11-14 11:02:00 :: sync_add_summary1:prepare :: error = Table 'privytex_construct.summarySheet1' doesn't exist
+2014-11-14 12:10:38 :: sync_add_summary1:prepare :: error = Table 'privytex_construct.summarySheet1' doesn't exist
+2014-11-14 13:18:23 :: sync_add_summary1:prepare :: error = Table 'privytex_construct.summarySheet1' doesn't exist
+2014-11-14 13:18:27 :: sync_add_summary1:prepare :: error = Table 'privytex_construct.summarySheet1' doesn't exist
+2014-11-14 13:19:36 :: sync_add_summary1:prepare :: error = Table 'privytex_construct.summarySheet1' doesn't exist
+2014-11-14 13:22:52 :: sync_add_summary1:prepare :: error = Table 'privytex_construct.summarySheet1' doesn't exist
+2014-11-14 13:29:13 :: sync_add_summary1:prepare :: error = Table 'privytex_construct.summarySheet1' doesn't exist
+2014-11-14 13:31:02 :: sync_add_summary1:prepare :: error = Table 'privytex_construct.summarySheet1' doesn't exist
+2014-11-14 22:17:57 :: sync_add_summary1:prepare :: error = Table 'privytex_construct.summarySheet1' doesn't exist
+2014-11-14 22:28:44 :: sync_add_summary1:prepare :: error = Table 'privytex_construct.summarySheet1' doesn't exist
+2014-11-14 22:29:53 :: sync_add_summary1:prepare :: error = Table 'privytex_construct.summarySheet1' doesn't exist
+2014-11-14 22:34:14 :: sync_add_summary1:prepare :: error = Table 'privytex_construct.summarySheet1' doesn't exist
+2014-11-15 03:17:53 :: sync_add_summary1:prepare :: error = Table 'privytex_construct.summarySheet1' doesn't exist
+2014-11-15 03:56:46 :: sync_add_summary1:prepare :: error = Table 'privytex_construct.summarySheet1' doesn't exist
+2014-11-15 06:14:08 :: sync_add_summary1:prepare :: error = Table 'privytex_construct.summarySheet1' doesn't exist
+2014-11-15 06:24:08 :: sync_add_summary1:prepare :: error = Table 'privytex_construct.summarySheet1' doesn't exist
+2014-11-21 01:26:10 :: sync_update_qty_estimate_report:prepare :: error = Unknown column 'eXReportNo' in 'field list'
+2014-11-24 01:43:10 :: sync_update_qty_estimate_report:prepare :: error = Unknown column 'eXReportNo' in 'field list'
+2014-11-24 01:43:56 :: sync_update_qty_estimate_report:prepare :: error = Unknown column 'eXReportNo' in 'field list'
+2014-11-24 01:46:25 :: sync_update_qty_estimate_report:prepare :: error = Unknown column 'eXReportNo' in 'field list'
+2014-11-24 02:15:45 :: sync_update_qty_estimate_report:prepare :: error = Unknown column 'eXReportNo' in 'field list'
+2014-11-24 02:16:25 :: sync_update_qty_estimate_report:prepare :: error = Unknown column 'eXReportNo' in 'field list'
